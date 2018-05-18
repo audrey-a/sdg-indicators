@@ -5,7 +5,7 @@ title: Admin
 permalink: /fr/admin/
 ---
 
-La Plateforme nationale de rapports est gérée par GitHub. Pour soumettre des mises à jour pour revue, veuillez d'abord vous connecter à GitHub.
+La Plateforme nationale de rapports est gérée par GitHub. Pour soumettre des mises à jour pour examen, veuillez d'abord vous inscrire à GitHub.
 
 <div class="button_wrapper github-login">
     <a class="usa-button usa-button-big" href="https://github.com/login">GitHub Login</a> <a class="usa-button usa-button-big logout" href="https://github.com/logout">GitHub Logout</a>
